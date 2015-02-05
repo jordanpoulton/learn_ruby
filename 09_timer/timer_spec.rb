@@ -1,3 +1,7 @@
+# Now, we start using doubles. You don't need to understand it all right now, we'll go over it again later, by read this section - even if it doesn't make much sense to you right now:
+
+# https://relishapp.com/rspec/rspec-core/v/3-2/docs/mock-framework-integration/mock-with-rspec
+
 # # Topics
 #
 # * classes
@@ -6,6 +10,8 @@
 # * modular arithmetic
 #
 # # Timer
+
+# Before you start, try to understand why you couldn't use a 'let' variable here in place of the 'before' hook...
 
 require 'timer'
 

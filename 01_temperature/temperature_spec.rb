@@ -1,3 +1,5 @@
+# Read this: https://relishapp.com/rspec/rspec-core/v/3-2/docs/example-groups/basic-structure-describe-it
+
 # # Topics:
 # * functions
 # * floating-point math
