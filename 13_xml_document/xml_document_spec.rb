@@ -14,7 +14,8 @@
 # nested closures
 # "builder pattern"
 
-# This might be too difficult for this level...
+# This might be too difficult for this level... Skip it for now.
+=begin
 
 require "xml_document"
 
@@ -77,3 +78,4 @@ describe XmlDocument do
     "</hello>\n"
   end
 end
+=end
