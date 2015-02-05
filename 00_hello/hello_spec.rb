@@ -2,6 +2,14 @@
 #
 # This lab teaches basic Ruby function syntax.
 #
+# BEFORE YOU START, PLEASE READ THIS SHORT INTRODUCTION TO RSpec:
+# http://blog.teamtreehouse.com/an-introduction-to-rspec
+# Please be aware that it uses a slightly outdated RSpec syntax
+#
+# Throughout this tutorial, be sure to read the specs CAREFULLY and make sure you understand them. You'll be writing your own specs towards the end
+#
+# LET'S GO!!!!!!!!
+#
 # ## Open a terminal in this directory
 #
 #     cd 00_hello
