@@ -14,6 +14,8 @@
 # nested closures
 # "builder pattern"
 
+# This might be too difficult for this level...
+
 require "xml_document"
 
 describe XmlDocument do
