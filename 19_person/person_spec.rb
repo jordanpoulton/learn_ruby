@@ -64,7 +64,7 @@ describe Person do
     end
   end
 
-  # Now, why not try to play around with Doubles & Mock responses? Stud some imaginary interaction with other objects. What about coding how the person would react to eating cake? Or eating vegetables? What happens if you want to raise an exception for when you try to have the person eat a scorpion??
+  # Now, why not try to play around with Doubles & Mock responses? Stub some imaginary interaction with other objects. What about coding how the person would react to eating cake? Or eating vegetables? What happens if you want to raise an exception for when you try to have the person eat a scorpion??
 
 end
 
